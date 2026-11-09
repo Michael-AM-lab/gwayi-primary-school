@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import schoolCrest from '../assets/Gwayi Valley Primary School White.png'
+import schoolCrest from '../assets/Gwayi Valley Primary School white.png'
 
 const footerLinks = [
   { label: 'Home', to: '/' },

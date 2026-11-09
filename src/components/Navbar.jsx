@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
-import schoolCrest from '../assets/Gwayi Valley Primary School White.png'
+import schoolCrest from '../assets/Gwayi Valley Primary School white.png'
 
 const navigationLinks = [
   { label: 'Home', href: '/' },
